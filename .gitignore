@@ -1,0 +1,14 @@
+*.npy
+*.onnx
+*.trt
+*.pyc
+*.zip
+*.tar
+*.exe
+*.log
+*.pth
+**/__pycache__/**
+.vscode/
+mmdetection3d/
+lightning_logs/
+checkpoints/
